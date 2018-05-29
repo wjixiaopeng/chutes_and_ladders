@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="ChutesandLadders:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/ChutesandLadders_jar</output-path>
-    <root id="archive" name="ChutesandLadders.jar">
-      <element id="module-output" name="ChutesandLadders" />
-    </root>
-  </artifact>
-</component>
